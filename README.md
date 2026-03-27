@@ -7,7 +7,7 @@
 - [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
 - [Data Normalization and Modelling](#data-normalization-and-modelling)
 - [Analysis and Calculations using DAX](#analysis-and-calculations-using-dax)
-- [Data Visualization Dashboard Preview](#data-visualization-dashboard-preview)
+- [Data Visualization Dashboard Preview and Key Insights](#data-visualization-dashboard-preview)
   - [Page 1 - Executive Logistics Dashboard](#page-1---executive-logistics-dashboard)
   - [Page 2 - Shipment Analysis by Transport Mode](#page-2---shipment-analysis-by-transport-mode)
   - [Page 3 - Customer Experience & Delivery Metrics](#page-3-customer-experience--delivery-metrics)
