@@ -152,3 +152,4 @@ This comprehensive Logistics Analysis Report provides stakeholders with a clear 
 Prepared by **Akitoye Michael Oluwaseyi**  
 Passionate about data analysis, logistics optimization, and building actionable dashboards.  
 
+Explore the full write‑up on Medium: [Unlocking Logistics Insights](https://medium.com/@akitoyemichael8/unlocking-logistics-insights-a-data-driven-journey-into-shipment-performance-2020-2024-b88860b50ec1)
